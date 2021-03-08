@@ -1,0 +1,30 @@
+#header {
+	background-image: url("images/pattern.webp")
+}
+
+h1 {
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+}
+
+.banner {
+	background-color: mediumspringgreen;
+	background-color: lightcoral;
+	background-color: skyblue;
+}
+
+.banner-heading {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+.content span{
+	font-family: Helvetica;
+	font-weight: bold;
+	color: blue;
+}
